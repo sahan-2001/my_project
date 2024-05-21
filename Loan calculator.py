@@ -1,5 +1,4 @@
 def calculate_interest_loan():
-    # Stored interest rates
     interest_rates = {
         1: 0.10,  # Housing
         2: 0.11,  # Personal
